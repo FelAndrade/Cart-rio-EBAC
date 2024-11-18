@@ -145,7 +145,7 @@ int main () //função principal
 			break;
 			
 			case 4:
-			printf("Obrigado por utilizar o sistema");
+			printf("Obrigado por utilizar o sistema e até a próxima");
 			return 0;
 			break;
 		
